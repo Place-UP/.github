@@ -11,16 +11,16 @@
   
 
 ## O que é a PLACEUP? 🤔
-A Place Up nasceu após uma analise de necessidade do mercado, onde foi averiguado que os pequenos comercios enfrentam dificuldades em: <br>
-- Precificação dos produtos <br>
-- Divulgação online <br>
-- Organização <br>
+A Place Up nasceu após uma análise de necessidade do mercado, onde foi averiguado que os pequenos comércios enfrentam dificuldades em: <br>
+- Precificação dos produtos; <br>
+- Divulgação online; <br>
+- Organização. <br>
 
 Enquanto os clientes: <br>
-- Não possuiam meios de ver um catalogo de produtos online <br>
-- Não conseguiam saber quais produtos ainda estavam disponiveis sem ter que ir presencialmente até a loja <br>
+- Não possuíam meios de ver um catálogo  de produtos online; <br>
+- Não conseguiam saber quais produtos ainda estavam disponíveis sem ter que ir presencialmente até a loja. <br>
 
-Com isso surge a **PLACE UP** uma plataforma online que auxilia o comerciamente a precificar e expor seus produtos, e disponibiliza uma vitrine online para que os clientes possam reservar seus produtos favoritos sem sair de casa!
+Com isso surge a **PLACE UP** uma plataforma online que auxilia o comerciante a precificar e expor seus produtos, e disponibiliza uma vitrine online para que os clientes possam reservar seus produtos favoritos sem sair de casa!
 
 <div>
      <h3>Missão 🌐</h3>
